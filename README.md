@@ -8,6 +8,7 @@ Esercitazioni del corso **ml-dl** (cartella `ml-dl/`):
 | `01_naive_bayes.ipynb` | GaussianNB, MultinomialNB, BernoulliNB |
 | `02_knn.ipynb` | KNN, scaling, cross-validation ed Elbow Method |
 | `03_svm.ipynb` | SVM con kernel RBF e matrice di confusione |
+| `04_decision_trees.ipynb` | Decision Tree, pruning, feature importance e Random Forest |
 
 ## Ambiente locale (venv + kernel Jupyter)
 
